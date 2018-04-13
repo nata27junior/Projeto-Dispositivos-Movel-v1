@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ConnectionHosp"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/Hospitais" />
+        <item
+            android:id="@+id/nav_ConnectionHosp2"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/Hospitais_part" />
+        <item
+            android:id="@+id/nav_ConnectionUBS"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/UBS" />
+        <item
+            android:id="@+id/nav_ConnectionClin"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/Clinicas" />
+    </group>
+
+</menu>
