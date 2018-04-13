@@ -1,4 +1,4 @@
-package com.example.natanael.fatec_maps_usb;
+package com.example.natanael.fatec_maps_ubs2;
 
 import org.junit.Test;
 
